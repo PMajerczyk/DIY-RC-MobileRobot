@@ -1,2 +1,8 @@
-PlatformIO - ESP32 CP2102 - Bluetooth module HC-05 - Arduino nano Atmega328p/STM32F103C8T6/raspberry pi pico -
-Servo MG996R 2x - Joystick module 2x
+# DIY - Remote Mobile Robot
+ The development environment used is PlatformIO
+### Component list:
+- ESP32 CP2102 
+- Arduino Nano Atmega328p / STM32F103C8T6 / Raspberry Pi Pico
+- Bluetooth module HC-05
+- Servo MG996R 2x
+- Joystick module 2x

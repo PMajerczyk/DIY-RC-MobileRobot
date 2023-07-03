@@ -6,3 +6,5 @@
 - Bluetooth module HC-05
 - Servo MG996R 2x
 - Joystick module 2x
+- Li-Pol battery 750mAh 3,7V
+- Battery box 3xAA

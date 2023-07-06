@@ -7,6 +7,6 @@
 - Servo MG996R 360 - 2pcs
 - Joystick module - 2pcs
 - Li-Pol battery 750mAh 3,7V
-- Battery box 3xAAA
-- Wheel Tires MN86 D80mm- 4pcs
+- Battery box 4xAAA 
+- Wheel Tires MN86 D80mm - 4pcs
 - Bearing 3x6x2,5 - 2pcs

@@ -8,8 +8,8 @@ void setup() {
 
   Serial.begin(9600);
   Bluetooth.begin();
-  Servo_1.attach(8);
-  Servo_2.attach(9);
+  Servo_1.attach(33);
+  Servo_2.attach(32);
 }
 
 void loop() {

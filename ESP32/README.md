@@ -6,5 +6,5 @@ The robot is powered by 6V from a battery box 4xAAA <br><br>
 ## Wiring diagram:
 
 <p align="center">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32.png" alt="png">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32.png" alt="png" width="600">
 </p>

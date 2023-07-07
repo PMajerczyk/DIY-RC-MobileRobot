@@ -15,6 +15,6 @@
   
 ### Wiring diagram:
 <p >
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32.png" alt="png" width="300" align="lrft">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico.png" alt="png" width="300" align="right">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32.png" alt="png" width="400" align="lrft">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico.png" alt="png" width="400" align="right">
 </p>

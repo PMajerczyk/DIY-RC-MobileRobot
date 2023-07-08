@@ -1,5 +1,5 @@
 # DIY RC Mobile Robot
- The development environment used is PlatformIO
+ The development environment used is VS Code/PlatformIO and PyCharm
  
 ### Component list:
 - ESP32 DevKitC CP2102 

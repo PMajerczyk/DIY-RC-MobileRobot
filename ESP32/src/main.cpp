@@ -6,7 +6,6 @@ Servo Servo_1, Servo_2;
 
 void setup() {
 
-  Serial.begin(9600);
   Bluetooth.begin();
   Servo_1.attach(33);
   Servo_2.attach(32);
@@ -15,9 +14,10 @@ void setup() {
 void loop() {
 
   int data_L = 0, data_R = 0;
-  if (Bluetooth.available() >= sizeof(int) * 2) {
-    data_L = Bluetooth.read();
-    data_R = Bluetooth.read();
+  if (Bluetooth.available()) {
+    String data = Bluetooth.readStringUntil('\n');
+    data_L = data.substring(0, data.indexOf(',')).toInt();
+    data_R = data.substring(data.indexOf(',') + 1).toInt();
   }
   Servo_1.writeMicroseconds(data_L);
   Servo_2.writeMicroseconds(data_R);

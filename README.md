@@ -2,7 +2,7 @@
  The development environment used is VS Code/PlatformIO and PyCharm
  
 ### Component list:
-- ESP32 DevKitC CP2102 
+- ESP32 DevKitC v4 CP2102 
 - Raspberry Pi Pico RP2040
 - Bluetooth module HC-05
 - Servo MG996R 360 - 2pcs

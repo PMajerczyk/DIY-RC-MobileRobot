@@ -13,6 +13,8 @@ def main():
         value1 = adc1.read_u16()
         value2 = adc2.read_u16()
         data = str(value1) + ',' + str(value2) + '\n'   # data to string
+        print(data)
+        print(data.encode())
         led(1)
         time.sleep(0.1)
         led(0)
@@ -21,7 +23,7 @@ def main():
         led(1)
         time.sleep(0.1)
         led(0)
-        time.sleep(1)
+        time.sleep(0.5)
 
 
 if __name__ == "__main__":

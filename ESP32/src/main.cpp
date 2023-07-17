@@ -15,12 +15,24 @@ void setup() {
 }
 
 void loop() {
-  int data_L = 500, data_R = 1500;
+  int data_L = 1500, data_R = 1500;
+  if (!Bluetooth.hasClient()) {
+    Serial.println("Bluetooth connection . . .");
+    Bluetooth.connect(mac_address);
+  }
   if (Bluetooth.available()) {
     String data = Bluetooth.readStringUntil('\n');
     data_L = data.substring(0, data.indexOf(',')).toInt();
     data_R = data.substring(data.indexOf(',') + 1).toInt();
-    Serial.println("Bluetooth: " + data);
+    data_L = map(data_L, 0, 65535, 500, 2500);
+    data_R = map(data_R, 0, 65535, 500, 2500);
+    if (data_L <=1600 && data_L >=1400) data_L = 1500;
+    else if (data_L >= 2400) data_L = 2500;
+    else if (data_L <= 600) data_L = 500;
+    if (data_R <=1600 && data_R >=1400) data_R = 1500;
+    else if (data_R >= 2400) data_R = 2500;
+    else if (data_R <= 600) data_R = 500;
+    Serial.println("Bluetooth: " + data + " - "+ data_L +","+ data_R);
   }
   Servo_1.writeMicroseconds(data_L);
   Servo_2.writeMicroseconds(data_R);

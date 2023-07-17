@@ -19,3 +19,7 @@
     <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32.png" alt="png" width="400" align="lrft">
     <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico.png" alt="png" width="400" align="right">
 </p>
+<p >
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32_connection.jpg" alt="png" width="400" align="lrft">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico_connection.jpg" alt="png" width="400" align="right">
+</p>

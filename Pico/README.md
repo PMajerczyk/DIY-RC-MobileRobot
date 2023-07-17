@@ -8,3 +8,6 @@ Remote controller is powered by 3.7V from Li-Pol battery <br><br>
 <p align="center">
     <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico.png" alt="png" width="600" >
 </p>
+<p align="center">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico_connection.jpg" alt="jpg" width="600" >
+</p>

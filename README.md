@@ -1,5 +1,7 @@
 # DIY RC Mobile Robot
- The development environment used is VS Code/PlatformIO and PyCharm
+ The development environment used is VS Code/PlatformIO and PyCharm <br>
+ General dimensions: 220-190-80 [mm] <br>
+ Speed: 0,28 [m/s] =~ 1 [km/h]
  
 ### Component list:
 - ESP32 DevKitC v4 CP2102 

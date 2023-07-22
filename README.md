@@ -10,11 +10,12 @@
 - Servo MG996R 360 - 2pcs
 - Joystick module - 2pcs
 - Li-Pol battery 750mAh 3,7V
-- Battery box 4xAAA
+- ~~Battery box 4xAAA~~ Office paperclip - 5pcs
 - Bistable switch - 2pcs
 - Wheel Tires MN86 D80mm - 4pcs
 - Bearing 3x6x2,5 - 2pcs
 - Rubber band - 2pcs
+- Connecting cables 
   
 ### Wiring diagram:
 <p >
@@ -25,3 +26,9 @@
     <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32_connection.jpg" alt="png" width="400" align="lrft">
     <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico_connection.jpg" alt="png" width="400" align="right">
 </p>
+
+### Demo preview:
+<p align="center">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/demo.png" alt="png" width="800">
+</p>
+

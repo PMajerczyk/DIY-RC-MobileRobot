@@ -10,9 +10,8 @@ Upload the code to the ESP32 from src/main.cpp <br><br>
 
 ## Wiring diagram:
 
-<p align="center">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32.png" alt="png" width="600">
+<p >
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32.png" alt="png" width="450" align="left">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32_connection.jpg" alt="png" width="450" align="right">
 </p>
-<p align="center">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32_connection.jpg" alt="jpg" width="600">
-</p>
+

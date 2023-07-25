@@ -2,7 +2,7 @@
 <br> Here will be added files for 3D printing. Those for editing as well as ready to print. <br>
 I used PLA filament **red** for the rims and **black** for the other components <br>
 
-## Tasks todo:
+## Tasks ToDo:
 To print in a 3d printer are these components: <br><br>
 frame.stl - 1pcs <br> 
 clip-servo.stl - 8pcs <br>

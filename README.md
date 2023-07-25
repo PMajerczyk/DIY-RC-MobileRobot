@@ -15,7 +15,12 @@
 - Wheel Tires MN86 D80mm - 4pcs
 - Bearing 3x6x2,5 - 2pcs
 - Rubber band - 2pcs
-- Connecting cables 
+- Connecting cables
+
+### How to make this robot:
+1. Follow the instructions from ESP32 / Readme.md / **Tasks ToDo**
+2. Follow the instructions from Pico / Readme.md / **Tasks ToDo**
+3. Follow the instructions from 3D print / Readme.md / **Tasks ToDo**
   
 ### Wiring diagram:
 <p >
@@ -31,4 +36,5 @@
 <p align="center">
     <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/demo.png" alt="png" width="800">
 </p>
-
+   
+      

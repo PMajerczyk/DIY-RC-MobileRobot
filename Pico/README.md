@@ -10,9 +10,7 @@ Upload the code to the Raspberry Pi Pico from main.py <br><br>
 
 ## Wiring diagram:
 
-<p align="center">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico.png" alt="png" width="600" >
-</p>
-<p align="center">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico_connection.jpg" alt="jpg" width="600" >
+<p >
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico.png" alt="png" width="450" align="left">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico_connection.jpg" alt="png" width="450" align="right">
 </p>

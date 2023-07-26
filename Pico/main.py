@@ -15,15 +15,11 @@ def main():
         data = str(value1) + ',' + str(value2) + '\n'   # data to string
         print(data)
         print(data.encode())
-        led(1)
-        time.sleep(0.1)
-        led(0)
         bt.write(data.encode())   # send data
-        time.sleep(0.1)
         led(1)
-        time.sleep(0.1)
+        time.sleep(0.03)
         led(0)
-        time.sleep(0.5)
+        time.sleep(0.3)
 
 
 if __name__ == "__main__":

@@ -32,8 +32,12 @@ void loop() {
     if (data_R <=1600 && data_R >=1400) data_R = 1500;
     else if (data_R >= 2400) data_R = 2500;
     else if (data_R <= 600) data_R = 500;
+    if (!Bluetooth.hasClient()) {
+      data_L = 1500; 
+      data_R = 1500;
+    }
+    Servo_1.writeMicroseconds(data_L);
+    Servo_2.writeMicroseconds(data_R);
     Serial.println("Bluetooth: " + data + " - "+ data_L +","+ data_R);
   }
-  Servo_1.writeMicroseconds(data_L);
-  Servo_2.writeMicroseconds(data_R);
 }

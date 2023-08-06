@@ -38,3 +38,8 @@
     <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico_connection.jpg" alt="jpg" width="400" align="center">
 </p>
 
+### Video:
+<p align="center">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/MobileRobot.gif" alt="gif" width="600">
+</p>
+

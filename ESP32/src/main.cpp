@@ -25,7 +25,7 @@ void loop() {
     data_L = data.substring(0, data.indexOf(',')).toInt();
     data_R = data.substring(data.indexOf(',') + 1).toInt();
     data_L = map(data_L, 0, 65535, 500, 2500);
-    data_R = map(data_R, 0, 65535, 500, 2500);
+    data_R = map(data_R, 0, 65535, 2500, 500);
     if (data_L <=1600 && data_L >=1400) data_L = 1500;
     else if (data_L >= 2400) data_L = 2500;
     else if (data_L <= 600) data_L = 500;

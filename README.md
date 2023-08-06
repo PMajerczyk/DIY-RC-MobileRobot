@@ -10,31 +10,30 @@
 - Servo MG996R 360 - 2pcs
 - Joystick module - 2pcs
 - Li-Pol battery 750mAh 3,7V
-- ~~Battery box 4xAAA~~ Office paperclip - 5pcs
+- ~~Battery box 4xAAA~~ Office paperclips
 - Bistable switch - 2pcs
 - Wheel Tires MN86 D80mm - 4pcs
 - Bearing 3x6x2,5 - 2pcs
-- Rubber band - 2pcs
+- Rubber bands
 - Connecting cables
 
 ### How to make this robot:
-1. Follow the instructions from ESP32 / Readme.md / **Tasks ToDo**
-2. Follow the instructions from Pico / Readme.md / **Tasks ToDo**
-3. Follow the instructions from 3D print / Readme.md / **Tasks ToDo**
-  
-### Wiring diagram:
-<p >
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32.png" alt="png" width="400" align="lrft">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico.png" alt="png" width="400" align="right">
-</p>
-<p >
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/ESP32_connection.jpg" alt="png" width="400" align="lrft">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico_connection.jpg" alt="png" width="400" align="right">
-</p>
+1. Follow the instructions from ESP32 / README.md / [**Tasks ToDo**](https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/README.md#tasks-todo)
+2. Follow the instructions from Pico / RREADME.md / [**Tasks ToDo**](https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/README.md#tasks-todo)
+3. Follow the instructions from 3D print / README.md / [**Tasks ToDo**](https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/README.md#tasks-todo)
+  <br>
+<p>
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/Batterybox.jpg" alt="jpg" width="200" align="left">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/Paperclip.jpg" alt="jpg" width="200" align="center">
+</p> <br> <br>
 
-### Demo preview:
-<p align="center">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/demo.png" alt="png" width="800">
+### Results:
+<p>
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/MobileRobot.jpg" alt="jpg" width="400" align="center">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/MobileRobot_top.jpg" alt="jpg" width="400" align="center">
+</p>
+<p>
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/MobileRobot_side.jpg" alt="jpg" width="400" align="center">
 </p>
    
       

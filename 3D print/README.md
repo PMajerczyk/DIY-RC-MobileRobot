@@ -15,6 +15,6 @@ rim-rear.stl - 2pcs <br>
 ## Demo preview: $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Only printed components:
 
 <p >
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/demo.png" alt="png" width="450" align="lrft">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/printed.png" alt="png" width="450" align="right">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/demo.png" alt="png" width="450" align="lrft">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/printed.png" alt="png" width="450" align="right">
 </p>

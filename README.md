@@ -22,25 +22,11 @@
 2. Follow the instructions from Pico / README.md / [**Tasks ToDo**](https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/README.md#tasks-todo)
 3. Follow the instructions from 3D print / README.md / [**Tasks ToDo**](https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/README.md#tasks-todo)
 4. From office clips make springs as in the photo
-5. Nab the bearings and the switch, glue the springs as in the photo<p><img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/Batterybox.jpg" alt="jpg" width="200" align="left">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/Paperclip.jpg" alt="jpg" width="265" align="center"></p>
-6. 
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16. 
-    
-
-
-
-
-<br> <br>
+5. Nab the bearings and the switch, glue the springs as in the photo<p><img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/Batterybox.jpg" alt="jpg" width="200" align="center">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/Paperclip.jpg" alt="jpg" width="265" align="left"></p>
+6. Grind the servo clips to be like wedges
+7. Put the rims front on the bearings, clips servo glue on "super-glue"
+8. Assemble all components to look like the pictures below
 
 ### Results:
 <p>
@@ -49,6 +35,6 @@
 </p>
 <p>
     <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/MobileRobot_side.jpg" alt="jpg" width="400" align="center">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/Pico_connection.jpg" alt="jpg" width="400" align="center">
 </p>
-   
-      
+

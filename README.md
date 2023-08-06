@@ -19,13 +19,28 @@
 
 ### How to make this robot:
 1. Follow the instructions from ESP32 / README.md / [**Tasks ToDo**](https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/ESP32/README.md#tasks-todo)
-2. Follow the instructions from Pico / RREADME.md / [**Tasks ToDo**](https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/README.md#tasks-todo)
+2. Follow the instructions from Pico / README.md / [**Tasks ToDo**](https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/Pico/README.md#tasks-todo)
 3. Follow the instructions from 3D print / README.md / [**Tasks ToDo**](https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/README.md#tasks-todo)
-  <br>
-<p>
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/Batterybox.jpg" alt="jpg" width="200" align="left">
-    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/Paperclip.jpg" alt="jpg" width="200" align="center">
-</p> <br> <br>
+4. From office clips make springs as in the photo
+5. Nab the bearings and the switch, glue the springs as in the photo<p><img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/Batterybox.jpg" alt="jpg" width="200" align="left">
+    <img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/Paperclip.jpg" alt="jpg" width="265" align="center"></p>
+6. 
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16. 
+    
+
+
+
+
+<br> <br>
 
 ### Results:
 <p>

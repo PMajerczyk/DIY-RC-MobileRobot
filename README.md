@@ -1,5 +1,7 @@
 # DIY RC Mobile Robot
- The development environment used is VS Code/PlatformIO and PyCharm <br>
+<img src="https://github.com/PMajerczyk/DIY-RC-MobileRobot/blob/main/3D%20print/img/MobileRobot.jpg" alt="jpg" width="142" align="right">
+ The development environment used is: <br> 
+ VS Code/PlatformIO and PyCharm <br>
  General dimensions: 220-190-80 [mm] <br>
  Speed: 0,28 [m/s] =~ 1 [km/h]
  
